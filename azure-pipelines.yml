@@ -5,7 +5,7 @@ variables:
   
   azureSubscription: 'asmhonerkampARM'
 
-  webAppName: 'java-spring-boot'
+  webAppName: 'asmhonerkamp-java-app'
 
   vmImageName: 'ubuntu-latest'
 
